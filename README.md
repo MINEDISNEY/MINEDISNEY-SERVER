@@ -12,7 +12,7 @@ Welcome to MineDisney — an alternative for everyone who wants to enjoy the mag
 
 Download the map and resource pack (links below).
 
-Unzip the files.
+Unzip the files. (data is zip because we have around 2000 file)
 
 Place the map folder into your Minecraft saves folder.
 
