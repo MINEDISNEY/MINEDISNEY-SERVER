@@ -1,4 +1,4 @@
-MINEDISNEY — Trash Server!
+# MINEDISNEY — Trash Server!
 
 Welcome to MineDisney — an alternative for everyone who wants to enjoy the magic without the ridiculous rules and abuse. This project is here to deliver a real, fun experience, no nonsense attached.
 
