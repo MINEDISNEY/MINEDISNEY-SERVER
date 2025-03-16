@@ -4,9 +4,9 @@ Welcome to MineDisney — an alternative for everyone who wants to enjoy the mag
 
 📌 What's Included?
 
-🌍 The Map: A fully detailed Minecraft world, replicating iconic Disney attractions and locations.
+🌍 The Map: A fully non detailed Minecraft world, not replicating at al iconic Disney attractions and locations.
 
-🎨 Resource Pack: Custom textures and sounds designed to bring the magic to life.
+🎨 Resource Pack: Custom textures and sounds designed to bring the magic to life (when it's working).
 
 🚀 How to Install
 
@@ -19,16 +19,16 @@ Place the map folder into your Minecraft saves folder.
 Place the resource pack into resourcepacks.
 
 Launch Minecraft, select the resource pack in settings, and enjoy!
-
+(1.20 i think)
 💪 Why We Made This
 
 <h1>"Because dictatorships always come to an end — and creativity should be free."</h1>
 
-Free FOR JUSTICE
+# Free FOR JUSTICE
 
 🛠️ Credits
 
-🎢 Builders and designers: The MineDisney Team
+🎢 Builders and designers: The MineDisney Team (only people who left beceause this server is trash)
 
 🎧 Resource pack creators: Community contributions
 
