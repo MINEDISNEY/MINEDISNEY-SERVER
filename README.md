@@ -35,3 +35,10 @@ Launch Minecraft, select the resource pack in settings, and enjoy!
 ⚠️ Disclaimer: This is not an official Disney project. All rights to the original content belong to their respective owners.
 
 Enjoy the magic — and remember, freedom and creativity always win. ✨
+
+
+BY THE WAY : Try to frighten me and it will be not one but 3 map with resource pack and studio
+
+
+试着吓唬我，那将不是一个，而是 3 个带有资源包和工作室的地图
+
