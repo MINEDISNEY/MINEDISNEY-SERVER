@@ -42,3 +42,5 @@ BY THE WAY : Try to frighten me and it will be not one but 3 map with resource p
 
 试着吓唬我，那将不是一个，而是 3 个带有资源包和工作室的地图
 
+
+![pueblo_trading_post_dec23-e1736936365101](https://github.com/user-attachments/assets/079821dc-8bab-4b6d-b0c5-4fc8da97b7ff)
